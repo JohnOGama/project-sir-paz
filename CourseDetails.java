@@ -41,7 +41,7 @@ public class CourseDetails extends javax.swing.JFrame {
         SubjectLabel.setText("Subject: " + DataManager.selectedSubject);
 
         ProgramLabel.setFont(new java.awt.Font("Sitka Banner", 1, 14)); // NOI18N
-        ProgramLabel.setText("Subject: " + DataManager.selectedProgram);
+        ProgramLabel.setText("Program: " + DataManager.selectedProgram);
 
         jLabel1.setText("Description:");
 
